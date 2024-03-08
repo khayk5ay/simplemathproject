@@ -1,6 +1,6 @@
-import hello
+
 from hello import add, subtract, multiply, divide, square
-import unittest
+
 
 def test_add():
     assert(add(2,3)==5)
